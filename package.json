@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "tiktok-livestream-chat-connector": "^0.9.12"
+  },
+  "name": "tiktok-live-comments",
+  "version": "1.0.0",
+  "description": "Видео/фото за подарки",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Fexell",
+  "license": "ISC"
+ 
+  
+}
